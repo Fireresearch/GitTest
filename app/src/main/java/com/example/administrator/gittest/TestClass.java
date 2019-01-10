@@ -5,5 +5,10 @@ package com.example.administrator.gittest;
  */
 
 public class TestClass {
+    public void method2(){
+
+    }
 
 }
+
+
