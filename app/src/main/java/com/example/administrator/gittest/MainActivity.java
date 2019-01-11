@@ -11,9 +11,16 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         method1();
+        method2();
     }
 
     public void method1(){
         // this is method 1
+
+    }
+
+    public void method2(){
+        // this is method 1
+
     }
 }
